@@ -1,20 +1,49 @@
 # Titanic Data Analysis Project
 
-This repository contains the analysis of the Titanic dataset, aiming to predict passenger survival based on features such as age, sex, and class. The project demonstrates various data analysis techniques, from data cleaning to visualizations.
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+This repository explores the **Titanic dataset** to predict passenger survival based on features like **age, sex, and class**. It showcases essential data analysis techniques, including data cleaning, visualization, and basic machine learning.
+
+---
 
 ## Project Overview
 
-The Titanic dataset is a popular dataset used for practicing data analysis and machine learning. The project is split into multiple sections to help understand the various aspects of data analysis.
+The **Titanic** dataset is a classic for practicing data analysis and machine learning. This project is organized into distinct sections to demonstrate how each step contributes to the overall analysis and predictive modeling.
+
+---
 
 ## Folder Structure
 
-- `data/` - Contains the dataset (`titanic.csv`).
-- `notebooks/` - Jupyter Notebooks with detailed analysis and visualizations.
-- `README.md` - Overview of the Titanic project.
+- **`data/`**  
+  Contains the raw dataset (`titanic.csv`).
+- **`notebooks/`**  
+  Jupyter Notebooks detailing the analysis, visualizations, and model-building steps.
+- **`scripts/`**  
+  Python scripts for data cleaning, feature engineering, and additional utilities.
+- **`README.md`**  
+  Overview of the Titanic project (this file).
+
+---
 
 ## Steps Performed
 
-1. **Data Cleaning**: Handling missing values, correcting data types, and feature engineering.
-2. **Exploratory Data Analysis (EDA)**: Visualizing relationships between features and survival.
+1. **Data Cleaning**  
+   - Handled missing values, corrected data types, and engineered new features.
+2. **Exploratory Data Analysis (EDA)**  
+   - Investigated the relationships between passenger attributes and survival.
+   - Created visualizations to understand data distributions and patterns.
+3. **Model Building**  
+   - Developed a machine learning model (e.g., Logistic Regression) to predict survival.
+   - Tuned hyperparameters and evaluated model performance.
+4. **Results & Conclusions**  
+   - Summarized findings and highlighted the most significant factors influencing survival.
 
+---
 
+## How to Run the Project
+
+1. **Clone this repository**  
+   ```bash
+   git clone https://github.com/yourusername/Titanic_Project.git
+   cd Titanic_Project

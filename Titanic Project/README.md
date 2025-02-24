@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-This repository explores the **Titanic dataset** to predict passenger survival based on features like **age, sex, and class**. It showcases essential data analysis techniques, including data cleaning, visualization, and basic machine learning.
+This repository contains the analysis of the **Titanic dataset**, aiming to predict passenger survival based on features such as **age, sex, and class**. The project demonstrates various data analysis techniques, from data cleaning to visualizations.
 
 ---
 
@@ -18,7 +18,7 @@ The **Titanic** dataset is a popular dataset used for practicing data analysis a
 - **`data/`**  
   Contains the raw dataset (`titanic.csv`).
 - **`notebooks/`**  
-  Jupyter Notebooks detailing the analysis, visualizations, and model-building steps.
+  Jupyter Notebooks detailing the analysis, visualizations.
 - **`README.md`**  
   Overview of the Titanic project (this file).
 

@@ -19,8 +19,6 @@ The **Titanic** dataset is a classic for practicing data analysis and machine le
   Contains the raw dataset (`titanic.csv`).
 - **`notebooks/`**  
   Jupyter Notebooks detailing the analysis, visualizations, and model-building steps.
-- **`scripts/`**  
-  Python scripts for data cleaning, feature engineering, and additional utilities.
 - **`README.md`**  
   Overview of the Titanic project (this file).
 
@@ -33,11 +31,7 @@ The **Titanic** dataset is a classic for practicing data analysis and machine le
 2. **Exploratory Data Analysis (EDA)**  
    - Investigated the relationships between passenger attributes and survival.
    - Created visualizations to understand data distributions and patterns.
-3. **Model Building**  
-   - Developed a machine learning model (e.g., Logistic Regression) to predict survival.
-   - Tuned hyperparameters and evaluated model performance.
-4. **Results & Conclusions**  
-   - Summarized findings and highlighted the most significant factors influencing survival.
+
 
 ---
 

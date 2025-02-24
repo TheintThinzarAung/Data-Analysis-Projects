@@ -9,7 +9,7 @@ This repository explores the **Titanic dataset** to predict passenger survival b
 
 ## Project Overview
 
-The **Titanic** dataset is a classic for practicing data analysis and machine learning. This project is organized into distinct sections to demonstrate how each step contributes to the overall analysis and predictive modeling.
+The **Titanic** dataset is a popular dataset used for practicing data analysis and machine learning. The project is split into multiple sections to help understand the various aspects of data analysis.
 
 ---
 

@@ -13,7 +13,7 @@ Understanding sales trends and key performance indicators is crucial for busines
 ## 🎥 Dashboard
 
 📌 **Sales Performance Dashboard** – Interactive visualization of sales, profits, and product performance.  
-![Sales Dashboard](https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/SalesDashboard/SaleDashboard.gif)
+![Sales Dashboard](https://github.com/TheintThinzarAung/Data-Analysis-Projects/blob/main/Sale%20Performance%20Analysis/SaleDashboard.gif)
 
 ## 📂 Folder Structure
 

@@ -1,14 +1,22 @@
-# 📊 Telecom Churn Analysis & Prediction  
+# 📊 Customer Churn & Retention Analytics
 
-This project explores customer churn in the telecom industry using **Power BI, Power Query, MS SQL, Jupyter Notebook, and Python**. It provides insights through **data analysis dashboards** and **predictive modeling** by connecting Python to SQL Server via **SQLAlchemy**.  
+Designed and built a customer analytics solution to identify high-risk customer segments, uncover key churn drivers, and support data-driven retention strategies.
 
-## 🚀 Project Overview  
+Analyzed telecom customer behavior using SQL, Python, and machine learning techniques to develop predictive churn models achieving approximately 83% accuracy, while delivering interactive dashboards for business stakeholders.
 
-Understanding why customers leave a telecom provider is crucial for business retention strategies. This project focuses on:  
-✅ **Analyzing churn trends** using Power BI.  
-✅ **Building a predictive model** with Random Forest to classify potential churners.  
-✅ **Connecting MS SQL Server to Python** for data retrieval and analysis.  
-✅ **Visualizing insights** with interactive Power BI dashboards.  
+## 🚀 Business Problem
+
+Customer churn directly impacts revenue growth and customer lifetime value. This project focused on identifying customers at risk of leaving, understanding the factors influencing churn, and providing actionable insights to support retention efforts.
+
+### Key Objectives
+
+✅ Identify customer segments with elevated churn risk
+
+✅ Develop predictive models to forecast customer churn
+
+✅ Analyze behavioral and service-related churn drivers
+
+✅ Deliver interactive dashboards to support retention planning
 
 ## 🎥 Dashboards  
 
